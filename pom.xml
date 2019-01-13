@@ -3,13 +3,13 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.tarot</groupId>
-	<artifactId>gui.swing</artifactId>
+	<artifactId>components</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Swing Components</name>
+	<name>Components</name>
 	<dependencies>
 		<dependency>
 			<groupId>org.tarot</groupId>
-			<artifactId>gui.icons</artifactId>
+			<artifactId>icons</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-lang3 -->
